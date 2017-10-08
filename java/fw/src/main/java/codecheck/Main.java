@@ -1,8 +1,9 @@
 /*
-	Main class of Simple Word chain Framework for Shiritori
-	Create by Madhurima on 02/19/2017
-    Description: shiritori game main class
+    Player class of Simple Word Chain Framework for Shiritori
+    Create by Madhurima on 09/10/2017
+    Description: player class of shiritori game
 */
+
 
 package codecheck;
 import java.io.IOException;
