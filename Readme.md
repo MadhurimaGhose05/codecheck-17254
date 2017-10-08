@@ -1,14 +1,13 @@
 
-# Shiritori framework
+# Simple Word Chain framework for Shiritori game
 ##Construction
-! [alt text] (http://ganbaruyo.net/images/structure.png "Logo Title Text 1")
 ##Description
 
 1. Create a shiritori game using Java socket communication
 
 2. Class description
 
-    2.1 Shitori: entrance class of shiritori game. Creation of referee class, waiting for player
+    2.1 Shiritori: entrance class of shiritori game. Creation of referee class, waiting for player
 Start the game, etc.
 
     2.2 Referee: Referee class. Give handouts between players, make a game end decision, etc.
