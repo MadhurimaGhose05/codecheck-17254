@@ -8,7 +8,7 @@
 package codecheck;
 
 import  java.util.Arrays ;
-import  java.util.stream. * ;
+import  java.util.stream.* ;
 import  java.util.ArrayList ;
 import java.io.FileReader;
 import java.io.FileNotFoundException;
